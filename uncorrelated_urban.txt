@@ -1,0 +1,50 @@
+        Cereals and products		                  Vegetables
+               Meat and fish		                  Vegetables
+               Meat and fish		     Sugar and Confectionery
+                         Egg		                      Fruits
+                         Egg		                  Vegetables
+                         Egg		     Sugar and Confectionery
+           Milk and products		                  Vegetables
+           Milk and products		     Sugar and Confectionery
+               Oils and fats		                  Vegetables
+               Oils and fats		     Sugar and Confectionery
+                      Fruits		                  Vegetables
+                      Fruits		     Sugar and Confectionery
+                  Vegetables		         Pulses and products
+                  Vegetables		     Sugar and Confectionery
+                  Vegetables		                      Spices
+                  Vegetables		     Non-alcoholic beverages
+                  Vegetables		Prepared meals, snacks, sweets etc.
+                  Vegetables		          Food and beverages
+                  Vegetables		Pan, tobacco and intoxicants
+                  Vegetables		                    Clothing
+                  Vegetables		                    Footwear
+                  Vegetables		       Clothing and footwear
+                  Vegetables		                     Housing
+                  Vegetables		              Fuel and light
+                  Vegetables		Household goods and services
+                  Vegetables		 Transport and communication
+                  Vegetables		    Recreation and amusement
+                  Vegetables		                   Education
+                  Vegetables		   Personal care and effects
+                  Vegetables		               Miscellaneous
+                  Vegetables		               General index
+         Pulses and products		     Sugar and Confectionery
+         Pulses and products		 Transport and communication
+     Sugar and Confectionery		                      Spices
+     Sugar and Confectionery		     Non-alcoholic beverages
+     Sugar and Confectionery		Prepared meals, snacks, sweets etc.
+     Sugar and Confectionery		          Food and beverages
+     Sugar and Confectionery		Pan, tobacco and intoxicants
+     Sugar and Confectionery		                    Clothing
+     Sugar and Confectionery		                    Footwear
+     Sugar and Confectionery		       Clothing and footwear
+     Sugar and Confectionery		                     Housing
+     Sugar and Confectionery		              Fuel and light
+     Sugar and Confectionery		Household goods and services
+     Sugar and Confectionery		 Transport and communication
+     Sugar and Confectionery		    Recreation and amusement
+     Sugar and Confectionery		                   Education
+     Sugar and Confectionery		   Personal care and effects
+     Sugar and Confectionery		               Miscellaneous
+     Sugar and Confectionery		               General index
